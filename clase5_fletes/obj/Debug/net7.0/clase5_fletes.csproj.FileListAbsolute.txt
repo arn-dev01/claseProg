@@ -1,0 +1,15 @@
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/bin/Debug/net7.0/clase5_fletes
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/bin/Debug/net7.0/clase5_fletes.deps.json
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/bin/Debug/net7.0/clase5_fletes.runtimeconfig.json
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/bin/Debug/net7.0/clase5_fletes.dll
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/bin/Debug/net7.0/clase5_fletes.pdb
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/obj/Debug/net7.0/clase5_fletes.csproj.AssemblyReference.cache
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/obj/Debug/net7.0/clase5_fletes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/obj/Debug/net7.0/clase5_fletes.AssemblyInfoInputs.cache
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/obj/Debug/net7.0/clase5_fletes.AssemblyInfo.cs
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/obj/Debug/net7.0/clase5_fletes.csproj.CoreCompileInputs.cache
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/obj/Debug/net7.0/clase5_fletes.dll
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/obj/Debug/net7.0/refint/clase5_fletes.dll
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/obj/Debug/net7.0/clase5_fletes.pdb
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/obj/Debug/net7.0/clase5_fletes.genruntimeconfig.cache
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase5_fletes/obj/Debug/net7.0/ref/clase5_fletes.dll

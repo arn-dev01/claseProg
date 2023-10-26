@@ -1,0 +1,14 @@
+/Users/arn/Documents/claseUni/claseProg/clase5/bin/Debug/net7.0/clase5
+/Users/arn/Documents/claseUni/claseProg/clase5/bin/Debug/net7.0/clase5.deps.json
+/Users/arn/Documents/claseUni/claseProg/clase5/bin/Debug/net7.0/clase5.runtimeconfig.json
+/Users/arn/Documents/claseUni/claseProg/clase5/bin/Debug/net7.0/clase5.dll
+/Users/arn/Documents/claseUni/claseProg/clase5/bin/Debug/net7.0/clase5.pdb
+/Users/arn/Documents/claseUni/claseProg/clase5/obj/Debug/net7.0/clase5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arn/Documents/claseUni/claseProg/clase5/obj/Debug/net7.0/clase5.AssemblyInfoInputs.cache
+/Users/arn/Documents/claseUni/claseProg/clase5/obj/Debug/net7.0/clase5.AssemblyInfo.cs
+/Users/arn/Documents/claseUni/claseProg/clase5/obj/Debug/net7.0/clase5.csproj.CoreCompileInputs.cache
+/Users/arn/Documents/claseUni/claseProg/clase5/obj/Debug/net7.0/clase5.dll
+/Users/arn/Documents/claseUni/claseProg/clase5/obj/Debug/net7.0/refint/clase5.dll
+/Users/arn/Documents/claseUni/claseProg/clase5/obj/Debug/net7.0/clase5.pdb
+/Users/arn/Documents/claseUni/claseProg/clase5/obj/Debug/net7.0/clase5.genruntimeconfig.cache
+/Users/arn/Documents/claseUni/claseProg/clase5/obj/Debug/net7.0/ref/clase5.dll

@@ -1,0 +1,15 @@
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/bin/Debug/net7.0/clase8
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/bin/Debug/net7.0/clase8.deps.json
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/bin/Debug/net7.0/clase8.runtimeconfig.json
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/bin/Debug/net7.0/clase8.dll
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/bin/Debug/net7.0/clase8.pdb
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/obj/Debug/net7.0/clase8.csproj.AssemblyReference.cache
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/obj/Debug/net7.0/clase8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/obj/Debug/net7.0/clase8.AssemblyInfoInputs.cache
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/obj/Debug/net7.0/clase8.AssemblyInfo.cs
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/obj/Debug/net7.0/clase8.csproj.CoreCompileInputs.cache
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/obj/Debug/net7.0/clase8.dll
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/obj/Debug/net7.0/refint/clase8.dll
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/obj/Debug/net7.0/clase8.pdb
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/obj/Debug/net7.0/clase8.genruntimeconfig.cache
+/Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase8/obj/Debug/net7.0/ref/clase8.dll

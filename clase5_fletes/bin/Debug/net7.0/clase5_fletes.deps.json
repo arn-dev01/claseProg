@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "clase5_fletes/1.0.0": {
+        "runtime": {
+          "clase5_fletes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clase5_fletes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
