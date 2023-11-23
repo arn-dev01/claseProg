@@ -3,23 +3,28 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase1", "clase1\clase1.csproj", "{E45E26A1-CA81-49B1-81D3-8E88B913841C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clase1", "clase1\clase1.csproj", "{E45E26A1-CA81-49B1-81D3-8E88B913841C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase2", "clase2\clase2.csproj", "{508DF99E-DD78-4930-9AB3-9FB3CAC8170E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clase2", "clase2\clase2.csproj", "{508DF99E-DD78-4930-9AB3-9FB3CAC8170E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase5", "clase5\clase5.csproj", "{3F09B1FA-70F3-41CA-BBEB-A8707112C1D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clase5", "clase5\clase5.csproj", "{3F09B1FA-70F3-41CA-BBEB-A8707112C1D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase5_fletes", "clase5_fletes\clase5_fletes.csproj", "{613082E3-22AC-47DC-9634-9BE32A52C183}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clase5_fletes", "clase5_fletes\clase5_fletes.csproj", "{613082E3-22AC-47DC-9634-9BE32A52C183}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase8", "clase8\clase8.csproj", "{B5D9C511-9822-48B7-94E4-F36DF1C786F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clase8", "clase8\clase8.csproj", "{B5D9C511-9822-48B7-94E4-F36DF1C786F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clase10", "clase10\clase10.csproj", "{07AC8A4B-2965-4B65-81A0-E7989BBF6405}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clase10_ejer", "clase10_ejer\clase10_ejer.csproj", "{926EF065-D9C6-4381-B52D-0EB0B92E6AE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clase 11", "clase 11\clase 11.csproj", "{147117FA-94A1-48E2-958D-0C091B4F791F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase 12", "clase 12\clase 12.csproj", "{6D0851B5-2663-4538-8F31-52D6CE4B7F94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E45E26A1-CA81-49B1-81D3-8E88B913841C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -42,5 +47,27 @@ Global
 		{B5D9C511-9822-48B7-94E4-F36DF1C786F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5D9C511-9822-48B7-94E4-F36DF1C786F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5D9C511-9822-48B7-94E4-F36DF1C786F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AC8A4B-2965-4B65-81A0-E7989BBF6405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AC8A4B-2965-4B65-81A0-E7989BBF6405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AC8A4B-2965-4B65-81A0-E7989BBF6405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AC8A4B-2965-4B65-81A0-E7989BBF6405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{926EF065-D9C6-4381-B52D-0EB0B92E6AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926EF065-D9C6-4381-B52D-0EB0B92E6AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926EF065-D9C6-4381-B52D-0EB0B92E6AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926EF065-D9C6-4381-B52D-0EB0B92E6AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{147117FA-94A1-48E2-958D-0C091B4F791F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147117FA-94A1-48E2-958D-0C091B4F791F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147117FA-94A1-48E2-958D-0C091B4F791F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147117FA-94A1-48E2-958D-0C091B4F791F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0851B5-2663-4538-8F31-52D6CE4B7F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0851B5-2663-4538-8F31-52D6CE4B7F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0851B5-2663-4538-8F31-52D6CE4B7F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0851B5-2663-4538-8F31-52D6CE4B7F94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAEC9C85-7D27-4410-B2A1-B712ADB5219B}
 	EndGlobalSection
 EndGlobal
