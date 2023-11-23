@@ -28,7 +28,7 @@ foreach (var charac in destructured)
     }
 }
 
-for(int i =0; i <= destructured.Length; i++)
+for(int i =0; i <= charCounter.Length-1; i++)
 {
     Console.WriteLine($"{characters[i]} = {charCounter[i]}");
 }
