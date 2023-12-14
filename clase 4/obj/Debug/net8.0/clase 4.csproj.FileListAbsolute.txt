@@ -1,0 +1,15 @@
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\bin\Debug\net8.0\clase 4.exe
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\bin\Debug\net8.0\clase 4.deps.json
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\bin\Debug\net8.0\clase 4.runtimeconfig.json
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\bin\Debug\net8.0\clase 4.dll
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\bin\Debug\net8.0\clase 4.pdb
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\obj\Debug\net8.0\clase 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\obj\Debug\net8.0\clase 4.AssemblyInfoInputs.cache
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\obj\Debug\net8.0\clase 4.AssemblyInfo.cs
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\obj\Debug\net8.0\clase 4.csproj.CoreCompileInputs.cache
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\obj\Debug\net8.0\clase 4.sourcelink.json
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\obj\Debug\net8.0\clase 4.dll
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\obj\Debug\net8.0\refint\clase 4.dll
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\obj\Debug\net8.0\clase 4.pdb
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\obj\Debug\net8.0\clase 4.genruntimeconfig.cache
+C:\Users\arn\Documents\ingSoft\claseProg\clase 4\obj\Debug\net8.0\ref\clase 4.dll
