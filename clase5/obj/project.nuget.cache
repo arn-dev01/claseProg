@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vIdU3tlCfWX/GdaNJM21Hv54K/Yj/V7EAign4Yz6GCNMR+OuBI7SquhJDKLhCxjUz5opb5k1o5b9532rWfTs7w==",
+  "dgSpecHash": "aMvBudtl3jvE/SftXXxi9QXbbYZaJQRfA0H1uFZg0qI/ztToLpsqP2PLFlfxAJebPE0rNYkpJvoStI2kHjop4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arn\\Documents\\ingSoft\\claseProg\\clase5\\clase5.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\arn\\Documents\\ingSoft\\claseProg\\clase5\\clase5_f_to_c.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\arn\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\arn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\arn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

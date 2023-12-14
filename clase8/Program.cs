@@ -3,7 +3,7 @@
 
     while(num != 0) {
       Console.WriteLine("Ingrese un numero");
-      num = int.Parse(Console.ReadLine());
+      num = int.Parse(Console.ReadLine()!);
       sum += num;
     }
 

@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = clase6
-build_property.ProjectDir = /Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase6/
+build_property.ProjectDir = C:\Users\arn\Documents\ingSoft\claseProg\clase6\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

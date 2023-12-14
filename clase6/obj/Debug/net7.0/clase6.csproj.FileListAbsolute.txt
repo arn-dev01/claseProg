@@ -13,3 +13,18 @@
 /Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase6/obj/Debug/net7.0/clase6.pdb
 /Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase6/obj/Debug/net7.0/clase6.genruntimeconfig.cache
 /Users/arnulfotos/Documents/ING SOFTWARE/claseProg/clase6/obj/Debug/net7.0/ref/clase6.dll
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\bin\Debug\net7.0\clase6.exe
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\bin\Debug\net7.0\clase6.deps.json
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\bin\Debug\net7.0\clase6.runtimeconfig.json
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\bin\Debug\net7.0\clase6.dll
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\bin\Debug\net7.0\clase6.pdb
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\obj\Debug\net7.0\clase6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\obj\Debug\net7.0\clase6.AssemblyInfoInputs.cache
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\obj\Debug\net7.0\clase6.AssemblyInfo.cs
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\obj\Debug\net7.0\clase6.csproj.CoreCompileInputs.cache
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\obj\Debug\net7.0\clase6.sourcelink.json
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\obj\Debug\net7.0\clase6.dll
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\obj\Debug\net7.0\refint\clase6.dll
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\obj\Debug\net7.0\clase6.pdb
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\obj\Debug\net7.0\clase6.genruntimeconfig.cache
+C:\Users\arn\Documents\ingSoft\claseProg\clase6\obj\Debug\net7.0\ref\clase6.dll

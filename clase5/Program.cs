@@ -31,8 +31,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             System.Console.WriteLine("Ingrese la operacion que desee realizar.\n[1]F° a C°\n[2]C° a F°");
            
-           do
-           {
+     
             tipoConv = Console.ReadKey();
             
             if(tipoConv.Key == ConsoleKey.D1) {

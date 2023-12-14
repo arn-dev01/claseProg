@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/5g6fExJxdBsoxqqttbZCOj5NIoyPuvE3VjgxFnukKOfg8JwQiK7xlSY4tK5yBVO2hIAOPc8gqUW2DZ9hXFihA==",
+  "dgSpecHash": "5aSS1VEs3H672N7gkKV+rI0830ZY84wlG5LskyNxqY+vBJBIvT1VRk3tCn1WDiW2vfpa23c1Inss6/9hDu+97A==",
   "success": true,
   "projectFilePath": "C:\\Users\\arn\\Documents\\ingSoft\\claseProg\\clase2\\clase2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\arn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\arn\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\arn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\arn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
