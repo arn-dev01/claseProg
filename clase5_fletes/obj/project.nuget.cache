@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RK/NivfjLEQTpuCZXbYWYIwJaW7eD3wFKOikFR2K4TrvUTFb2euwZYDrWTUdo8WqJPn6Z63mg6PpDlNGZ9ymLg==",
+  "dgSpecHash": "PWAm19lndA2KPnX5MMJ3YtpX+flje2WsPe8+TYt4+1CHKAmj0iHGxr57yZyRicnuhGA7AB9ub5xHt2vdFnJnSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\arn\\Documents\\ingSoft\\claseProg\\clase5_fletes\\clase5_fletes.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\arn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\arn\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\arn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\arn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arn\\Documents\\ingSoft\\claseProg\\clase5\\clase5.csproj",
-      "projectName": "clase5",
-      "projectPath": "C:\\Users\\arn\\Documents\\ingSoft\\claseProg\\clase5\\clase5.csproj",
+      "projectUniqueName": "C:\\Users\\arn\\Documents\\ingSoft\\claseProg\\clase5\\clase5_f_to_c.csproj",
+      "projectName": "clase5_f_to_c",
+      "projectPath": "C:\\Users\\arn\\Documents\\ingSoft\\claseProg\\clase5\\clase5_f_to_c.csproj",
       "packagesPath": "C:\\Users\\arn\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\arn\\Documents\\ingSoft\\claseProg\\clase5\\obj\\",
       "projectStyle": "PackageReference",
@@ -40,6 +40,9 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -56,12 +59,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
