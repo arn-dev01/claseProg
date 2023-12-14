@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+int i = 10;
+while(i<= 20)
+{
+    Console.WriteLine(i);
+    i++;
+}
